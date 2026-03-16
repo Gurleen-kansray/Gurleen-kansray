@@ -5,7 +5,9 @@
 ###
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gurleen-kaur-146540271)
+  <a href="https://www.linkedin.com/in/gurleen-kaur-146540271">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"/>
+  </a>
 </div>
 
 ###
@@ -60,20 +62,5 @@ I'm Gurleen Kaur, a developer passionate about building efficient and impactful 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gurleen-kansray&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub streak graph"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gurleen-kansray&show_icons=true&theme=dark"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurleen-kansray&layout=compact&theme=dark"/>
-</div>
 
 ###
