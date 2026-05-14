@@ -28,9 +28,9 @@ I'm a systems-focused developer passionate about language internals, compilers, 
 - **package:objective_c:** Updated `autoReleasePool` to enable cleaner API patterns by returning callback values. [cite: 16]
 
 ### 🏗 RISC-V HPC Portability Engineer (LFX 2026)
-*Working under Mentor Kurt Keville (MIT) to port 400+ HPC codes to `riscv64`.*
+*Actively contributing to the ecosystem for porting 400+ HPC codes to `riscv64`*
 - **Validated Ports:** Successfully validated and packaged `.deb` files for OpenBLAS, SPOOLES, ARPACK-ng, GetDP, OOFEM, and CalculiX.
-- **SIMD Engineering:** Developed architecture-transparent headers using RVV intrinsics for RISC-V and AVX2 for x86_64.
+- **SIMD Engineering:** Developed architecture-transparent headers using RVV intrinsics for RISC-V and AVX2 for x86_64 to ensure high-performance cross-platform compatibility.
 - **Observability:** Profiling syscall behavior using eBPF under `qemu-riscv64-static`.
 
 <h3 align="left">🛠 Languages and Tools</h3>
