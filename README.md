@@ -13,19 +13,19 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-I'm a systems-focused developer passionate about language internals, compilers, and high-performance computing. [cite: 1, 11] Currently, I am a sophomore pursuing my B.Tech in Computer Science at GNDEC, Ludhiana (Aggregate SGPA: 8.98). [cite: 37, 38, 42]
+I'm a systems-focused developer passionate about language internals, compilers, and high-performance computing. Currently, I am a sophomore pursuing my B.Tech in Computer Science at GNDEC, Ludhiana (Aggregate SGPA: 8.98).
 
-- 🚀 **Production Open Source:** Contributing to the **Dart SDK** and ecosystem, including FFI pipeline optimizations and VM service RPCs. [cite: 11, 13, 18]
+- 🚀 **Production Open Source:** Contributing to the **Dart SDK** and ecosystem, including FFI pipeline optimizations and VM service RPCs.
 - 🏗️ **RISC-V HPC Portability:** Porting complex HPC codes to `riscv64` as part of the LFX 2026 Mentorship.
 - 🌱 I’m actively improving my skills in **backend development, API integration, and open-source contribution workflows**.
 - ⚡ In my free time, I explore VM internals, solve low-level programming problems, and learn about modern software architecture.
 </p>
 
 ### 🛠 Production Open Source Experience (Dart & Flutter)
-- **Dart SDK (VM Service):** Implementing `getFfiStructLayout` in C++ to read ABI-aware memory layouts directly from the VM heap. [cite: 18]
-- **FFI Transformation Pipeline:** Optimized the core pipeline by marking `sizeOf` getters as synthetic (CL #483400). [cite: 13]
-- **package:ffigen:** Refactored global directory handling to eliminate concurrency conflicts in simultaneous runs. [cite: 15]
-- **package:objective_c:** Updated `autoReleasePool` to enable cleaner API patterns by returning callback values. [cite: 16]
+- **Dart SDK (VM Service):** Implementing `getFfiStructLayout` in C++ to read ABI-aware memory layouts directly from the VM heap.
+- **FFI Transformation Pipeline:** Optimized the core pipeline by marking `sizeOf` getters as synthetic (CL #483400).
+- **package:ffigen:** Refactored global directory handling to eliminate concurrency conflicts in simultaneous runs.
+- **package:objective_c:** Updated `autoReleasePool` to enable cleaner API patterns by returning callback values.
 
 ### 🏗 RISC-V HPC Portability Engineer (LFX 2026)
 *Actively contributing to the ecosystem for porting 400+ HPC codes to `riscv64`*
@@ -59,4 +59,4 @@ I'm a systems-focused developer passionate about language internals, compilers, 
 
 <br />
 
-📧 **gurleen72542@gmail.com** | [cite: 3]
+📧 **gurleen72542@gmail.com**
